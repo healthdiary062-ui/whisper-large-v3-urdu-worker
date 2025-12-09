@@ -6,6 +6,7 @@ import runpod
 import whisper
 
 
+
 # --------- LOAD MODEL ONCE --------- #
 
 MODEL_NAME = "large-v3"
